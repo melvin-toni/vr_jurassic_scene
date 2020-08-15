@@ -19,3 +19,5 @@ Tap to screen or use VR Headmount to jump.
 Turn your head right or left, up and down to see the scene.
 
 Use earphone for best sound experience.
+
+![Screenshot](./installer/screenshot.jpg?raw=true "In game screenshot")
